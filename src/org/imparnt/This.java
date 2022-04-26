@@ -9,7 +9,7 @@ public class This {
 	private void add() {
 		System.out.println(a);
 		
-		this.a=5;
+		this.a=7;
 		
 		int c=a+b;
 		System.out.println(c);
