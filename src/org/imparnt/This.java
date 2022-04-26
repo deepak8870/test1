@@ -8,9 +8,17 @@ public class This {
 	
 	private void add() {
 		System.out.println(a);
-		
 		this.a=6;
 		
+		
+		
+		this.a=7;
+//<<<<<<< HEAD
+//		
+//=======
+//		
+//>>>>>>> 72b2ce2492ac4b87199ada5c4fc4aa84a5c298f4
+//		
 		int c=a+b;
 		System.out.println(c);
 		this.a=20;
